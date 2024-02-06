@@ -1,0 +1,326 @@
+Name
+Bulbasaur
+Types
+Grass Poison
+Stats
+45 49 49 65 65 45
+Start Moves
+1
+Tackle
+1
+Growl
+7
+Leech Seed
+13
+Vine Whip
+20
+Poison Powder
+27
+Razor Leaf
+34
+Growth
+41
+Sleep Powder
+48
+Solar Beam
+End Moves
+NEXT POKEMON
+Name
+Ivysaur
+Types
+Grass Poison
+Stats
+60 62 63 80 80 60
+Start Moves
+1
+Tackle
+1
+Growl
+1
+Leech Seed
+7
+Leech Seed
+13
+Vine Whip
+22
+Poison Powder
+30
+Razor Leaf
+38
+Growth
+46
+Sleep Powder
+54
+Solar Beam
+End Moves
+NEXT POKEMON
+Name
+Venusaur
+Types
+Grass Poison
+Stats
+80 82 83 100 100 80
+Start Moves
+1
+Tackle
+1
+Growl
+1
+Leech Seed
+1
+Vine Whip
+7
+Leech Seed
+13
+Vine Whip
+22
+Poison Powder
+30
+Razor Leaf
+43
+Growth
+55
+Sleep Powder
+65
+Solar Beam
+End Moves
+NEXT POKEMON
+Name
+Charmander
+Types
+Fire
+Stats
+39 52 43 60 50 65
+Start Moves
+1
+Scratch
+1
+Growl
+9
+Ember
+15
+Leer
+22
+Rage
+30
+Slash
+38
+Flamethrower
+46
+Fire Spin
+End Moves
+NEXT POKEMON
+Name
+Charmeleon
+Types
+Fire
+Stats
+58 64 58 80 65 80
+Start Moves
+1
+Scratch
+1
+Growl
+1
+Ember
+9
+Ember
+15
+Leer
+24
+Rage
+33
+Slash
+42
+Flamethrower
+56
+Fire Spin
+End Moves
+NEXT POKEMON
+Name
+Charizard
+Types
+Fire Flying
+Stats
+78 84 78 109 85 100
+Start Moves
+1
+Scratch
+1
+Growl
+1
+Ember
+1
+Leer
+9
+Ember
+15
+Leer
+24
+Rage
+36
+Slash
+46
+Flamethrower
+55
+Fire Spin
+End Moves
+NEXT POKEMON
+Name
+Squirtle
+Types
+Water
+Stats
+44 48 65 50 64 43
+Start Moves
+1
+Tackle
+1
+Tail Whip
+8
+Bubble
+15
+Water Gun
+22
+Bite
+28
+Withdraw
+35
+Skull Bash
+42
+Hydro Pump
+End Moves
+NEXT POKEMON
+Name
+Wartortle
+Types
+Water
+Stats
+59 63 80 65 80 58
+Start Moves
+1
+Tackle
+1
+Tail Whip
+1
+Bubble
+8
+Bubble
+15
+Water Gun
+24
+Bite
+31
+Withdraw
+39
+Skull Bash
+47
+Hydro Pump
+End Moves
+NEXT POKEMON
+Name
+Blastoise
+Types
+Water
+Stats
+79 83 100 85 105 78
+Start Moves
+1
+Tackle
+1
+Tail Whip
+1
+Bubble
+1
+Water Gun
+8
+Bubble
+15
+Water Gun
+24
+Bite
+31
+Withdraw
+42
+Skull Bash
+52
+Hydro Pump
+End Moves
+NEXT POKEMON
+Name
+Caterpie
+Types
+Bug
+Stats
+45 30 35 20 20 45
+NEXT POKEMON
+Name
+Metapod
+Types
+Bug
+Stats
+50 20 55 25 25 30
+NEXT POKEMON
+Name
+Butterfree
+Types
+Bug Flying
+Stats
+60 45 50 90 80 70
+NEXT POKEMON
+Name
+Weedle
+Types
+Bug Poison
+Stats
+40 35 30 20 20 50
+NEXT POKEMON
+Name
+Kakuna
+Types
+Bug Poison
+Stats
+45 25 50 25 25 35
+NEXT POKEMON
+Name
+Beedrill
+Types
+Bug Poison
+Stats
+65 90 40 45 80 75
+NEXT POKEMON
+Name
+Pidgey
+Types
+Normal Flying
+Stats
+40 45 40 35 35 56
+NEXT POKEMON
+Name
+Pidgeotto
+Types
+Normal Flying
+Stats
+63 60 55 50 50 71
+NEXT POKEMON
+Name
+Pidgeot
+Types
+Normal Flying
+Stats
+83 80 75 70 70 101
+NEXT POKEMON
+Name
+Rattata
+Types
+Normal
+Stats
+30 56 35 25 35 72
+NEXT POKEMON
+Name
+Raticate
+Types
+Normal
+Stats
+55 81 60 50 70 97
+NEXT POKEMON

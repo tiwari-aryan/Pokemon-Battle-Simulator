@@ -1,0 +1,1155 @@
+Pound
+Normal
+Physical
+35
+40
+100
+NEXT MOVE
+Karate Chop
+Fighting
+Physical
+25
+50
+100
+NEXT MOVE
+Double Slap
+Normal
+Physical
+10
+15
+85
+NEXT MOVE
+Comet Punch
+Normal
+Physical
+15
+18
+85
+NEXT MOVE
+Mega Punch
+Normal
+Physical
+20
+80
+85
+NEXT MOVE
+Pay Day
+Normal
+Physical
+20
+40
+100
+NEXT MOVE
+Fire Punch
+Fire
+Physical
+15
+75
+100
+NEXT MOVE
+Ice Punch
+Ice
+Physical
+15
+75
+100
+NEXT MOVE
+Thunder Punch
+Electric
+Physical
+15
+75
+100
+NEXT MOVE
+Scratch
+Normal
+Physical
+35
+40
+100
+NEXT MOVE
+Vise Grip
+Normal
+Physical
+30
+55
+100
+NEXT MOVE
+Guillotine
+Normal
+Physical
+5
+0
+30
+NEXT MOVE
+Razor Wind
+Normal
+Special
+10
+80
+100
+NEXT MOVE
+Swords Dance
+Normal
+Status
+20
+0
+100
+NEXT MOVE
+Cut
+Normal
+Physical
+30
+50
+95
+NEXT MOVE
+Gust
+Flying
+Special
+35
+40
+100
+NEXT MOVE
+Wing Attack
+Flying
+Physical
+35
+60
+100
+NEXT MOVE
+Whirlwind
+Normal
+Status
+20
+0
+100
+NEXT MOVE
+Fly
+Flying
+Physical
+15
+90
+95
+NEXT MOVE
+Bind
+Normal
+Physical
+20
+15
+85
+NEXT MOVE
+Slam
+Normal
+Physical
+20
+80
+75
+NEXT MOVE
+Vine Whip
+Grass
+Physical
+25
+45
+100
+NEXT MOVE
+Stomp
+Normal
+Physical
+20
+65
+100
+NEXT MOVE
+Double Kick
+Fighting
+Physical
+30
+30
+100
+NEXT MOVE
+Mega Kick
+Normal
+Physical
+5
+120
+75
+NEXT MOVE
+Jump Kick
+Fighting
+Physical
+10
+100
+95
+NEXT MOVE
+Rolling Kick
+Fighting
+Physical
+15
+60
+85
+NEXT MOVE
+Sand Attack
+Ground
+Status
+15
+0
+100
+NEXT MOVE
+Headbutt
+Normal
+Physical
+15
+70
+100
+NEXT MOVE
+Horn Attack
+Normal
+Physical
+25
+65
+100
+NEXT MOVE
+Fury Attack
+Normal
+Physical
+20
+15
+85
+NEXT MOVE
+Horn Drill
+Normal
+Physical
+5
+0
+30
+NEXT MOVE
+Tackle
+Normal
+Physical
+35
+40
+100
+NEXT MOVE
+Body Slam
+Normal
+Physical
+15
+85
+100
+NEXT MOVE
+Wrap
+Normal
+Physical
+20
+15
+90
+NEXT MOVE
+Take Down
+Normal
+Physical
+20
+90
+85
+NEXT MOVE
+Thrash
+Normal
+Physical
+10
+120
+100
+NEXT MOVE
+Double-Edge
+Normal
+Physical
+15
+120
+100
+NEXT MOVE
+Tail Whip
+Normal
+Status
+30
+0
+100
+NEXT MOVE
+Poison Sting
+Poison
+Physical
+35
+15
+100
+NEXT MOVE
+Twineedle
+Bug
+Physical
+20
+25
+100
+NEXT MOVE
+Pin Missile
+Bug
+Physical
+20
+25
+95
+NEXT MOVE
+Leer
+Normal
+Status
+30
+0
+100
+NEXT MOVE
+Bite
+Dark
+Physical
+25
+60
+100
+NEXT MOVE
+Growl
+Normal
+Status
+40
+0
+100
+NEXT MOVE
+Roar
+Normal
+Status
+20
+0
+100
+NEXT MOVE
+Sing
+Normal
+Status
+15
+0
+55
+NEXT MOVE
+Supersonic
+Normal
+Status
+20
+0
+55
+NEXT MOVE
+Sonic Boom
+Normal
+Special
+20
+0
+90
+NEXT MOVE
+Disable
+Normal
+Status
+20
+0
+100
+NEXT MOVE
+Acid
+Poison
+Special
+30
+40
+100
+NEXT MOVE
+Ember
+Fire
+Special
+25
+40
+100
+NEXT MOVE
+Flamethrower
+Fire
+Special
+15
+90
+100
+NEXT MOVE
+Mist
+Ice
+Status
+30
+0
+100
+NEXT MOVE
+Water Gun
+Water
+Special
+25
+40
+100
+NEXT MOVE
+Hydro Pump
+Water
+Special
+5
+110
+80
+NEXT MOVE
+Surf
+Water
+Special
+15
+90
+100
+NEXT MOVE
+Ice Beam
+Ice
+Special
+10
+90
+100
+NEXT MOVE
+Blizzard
+Ice
+Special
+5
+110
+70
+NEXT MOVE
+Psybeam
+Psychic
+Special
+20
+65
+100
+NEXT MOVE
+Bubble Beam
+Water
+Special
+20
+65
+100
+NEXT MOVE
+Aurora Beam
+Ice
+Special
+20
+65
+100
+NEXT MOVE
+Hyper Beam
+Normal
+Special
+5
+150
+90
+NEXT MOVE
+Peck
+Flying
+Physical
+35
+35
+100
+NEXT MOVE
+Drill Peck
+Flying
+Physical
+20
+80
+100
+NEXT MOVE
+Submission
+Fighting
+Physical
+20
+80
+80
+NEXT MOVE
+Low Kick
+Fighting
+Physical
+20
+0
+100
+NEXT MOVE
+Counter
+Fighting
+Physical
+20
+0
+100
+NEXT MOVE
+Seismic Toss
+Fighting
+Physical
+20
+0
+100
+NEXT MOVE
+Strength
+Normal
+Physical
+15
+80
+100
+NEXT MOVE
+Absorb
+Grass
+Special
+25
+20
+100
+NEXT MOVE
+Mega Drain
+Grass
+Special
+15
+40
+100
+NEXT MOVE
+Leech Seed
+Grass
+Status
+10
+0
+90
+NEXT MOVE
+Growth
+Normal
+Status
+20
+0
+100
+NEXT MOVE
+Razor Leaf
+Grass
+Physical
+25
+55
+95
+NEXT MOVE
+Solar Beam
+Grass
+Special
+10
+120
+100
+NEXT MOVE
+Poison Powder
+Poison
+Status
+35
+0
+75
+NEXT MOVE
+Stun Spore
+Grass
+Status
+30
+0
+75
+NEXT MOVE
+Sleep Powder
+Grass
+Status
+15
+0
+75
+NEXT MOVE
+Petal Dance
+Grass
+Special
+10
+120
+100
+NEXT MOVE
+String Shot
+Bug
+Status
+40
+0
+95
+NEXT MOVE
+Dragon Rage
+Dragon
+Special
+10
+0
+100
+NEXT MOVE
+Fire Spin
+Fire
+Special
+15
+35
+85
+NEXT MOVE
+Thunder Shock
+Electric
+Special
+30
+40
+100
+NEXT MOVE
+Thunderbolt
+Electric
+Special
+15
+90
+100
+NEXT MOVE
+Thunder Wave
+Electric
+Status
+20
+0
+90
+NEXT MOVE
+Thunder
+Electric
+Special
+10
+110
+70
+NEXT MOVE
+Rock Throw
+Rock
+Physical
+15
+50
+90
+NEXT MOVE
+Earthquake
+Ground
+Physical
+10
+100
+100
+NEXT MOVE
+Fissure
+Ground
+Physical
+5
+0
+30
+NEXT MOVE
+Dig
+Ground
+Physical
+10
+80
+100
+NEXT MOVE
+Toxic
+Poison
+Status
+10
+0
+90
+NEXT MOVE
+Confusion
+Psychic
+Special
+25
+50
+100
+NEXT MOVE
+Psychic
+Psychic
+Special
+10
+90
+100
+NEXT MOVE
+Hypnosis
+Psychic
+Status
+20
+0
+60
+NEXT MOVE
+Meditate
+Psychic
+Status
+40
+0
+100
+NEXT MOVE
+Agility
+Psychic
+Status
+30
+0
+100
+NEXT MOVE
+Quick Attack
+Normal
+Physical
+30
+40
+100
+NEXT MOVE
+Rage
+Normal
+Physical
+20
+20
+100
+NEXT MOVE
+Teleport
+Psychic
+Status
+20
+0
+100
+NEXT MOVE
+Night Shade
+Ghost
+Special
+15
+0
+100
+NEXT MOVE
+Mimic
+Normal
+Status
+10
+0
+100
+NEXT MOVE
+Screech
+Normal
+Status
+40
+0
+85
+NEXT MOVE
+Double Team
+Normal
+Status
+15
+0
+100
+NEXT MOVE
+Recover
+Normal
+Status
+5
+0
+100
+NEXT MOVE
+Harden
+Normal
+Status
+30
+0
+100
+NEXT MOVE
+Minimize
+Normal
+Status
+10
+0
+100
+NEXT MOVE
+Smokescreen
+Normal
+Status
+20
+0
+100
+NEXT MOVE
+Confuse Ray
+Ghost
+Status
+10
+0
+100
+NEXT MOVE
+Withdraw
+Water
+Status
+40
+0
+100
+NEXT MOVE
+Defense Curl
+Normal
+Status
+40
+0
+100
+NEXT MOVE
+Barrier
+Psychic
+Status
+20
+0
+100
+NEXT MOVE
+Light Screen
+Psychic
+Status
+30
+0
+100
+NEXT MOVE
+Haze
+Ice
+Status
+30
+0
+100
+NEXT MOVE
+Reflect
+Psychic
+Status
+20
+0
+100
+NEXT MOVE
+Focus Energy
+Normal
+Status
+30
+0
+100
+NEXT MOVE
+Bide
+Normal
+Physical
+10
+0
+100
+NEXT MOVE
+Metronome
+Normal
+Status
+10
+0
+100
+NEXT MOVE
+Mirror Move
+Flying
+Status
+20
+0
+100
+NEXT MOVE
+Self-Destruct
+Normal
+Physical
+5
+200
+100
+NEXT MOVE
+Egg Bomb
+Normal
+Physical
+10
+100
+75
+NEXT MOVE
+Lick
+Ghost
+Physical
+30
+30
+100
+NEXT MOVE
+Smog
+Poison
+Special
+20
+30
+70
+NEXT MOVE
+Sludge
+Poison
+Special
+20
+65
+100
+NEXT MOVE
+Bone Club
+Ground
+Physical
+20
+65
+85
+NEXT MOVE
+Fire Blast
+Fire
+Special
+5
+110
+85
+NEXT MOVE
+Waterfall
+Water
+Physical
+15
+80
+100
+NEXT MOVE
+Clamp
+Water
+Physical
+15
+35
+85
+NEXT MOVE
+Swift
+Normal
+Special
+20
+60
+100
+NEXT MOVE
+Skull Bash
+Normal
+Physical
+10
+130
+100
+NEXT MOVE
+Spike Cannon
+Normal
+Physical
+15
+20
+100
+NEXT MOVE
+Constrict
+Normal
+Physical
+35
+10
+100
+NEXT MOVE
+Amnesia
+Psychic
+Status
+20
+0
+100
+NEXT MOVE
+Kinesis
+Psychic
+Status
+15
+0
+80
+NEXT MOVE
+Soft-Boiled
+Normal
+Status
+5
+0
+100
+NEXT MOVE
+High Jump Kick
+Fighting
+Physical
+10
+130
+90
+NEXT MOVE
+Glare
+Normal
+Status
+30
+0
+100
+NEXT MOVE
+Dream Eater
+Psychic
+Special
+15
+100
+100
+NEXT MOVE
+Poison Gas
+Poison
+Status
+40
+0
+90
+NEXT MOVE
+Barrage
+Normal
+Physical
+20
+15
+85
+NEXT MOVE
+Leech Life
+Bug
+Physical
+10
+80
+100
+NEXT MOVE
+Lovely Kiss
+Normal
+Status
+10
+0
+75
+NEXT MOVE
+Sky Attack
+Flying
+Physical
+5
+140
+90
+NEXT MOVE
+Transform
+Normal
+Status
+10
+0
+100
+NEXT MOVE
+Bubble
+Water
+Special
+30
+40
+100
+NEXT MOVE
+Dizzy Punch
+Normal
+Physical
+10
+70
+100
+NEXT MOVE
+Spore
+Grass
+Status
+15
+0
+100
+NEXT MOVE
+Flash
+Normal
+Status
+20
+0
+100
+NEXT MOVE
+Psywave
+Psychic
+Special
+15
+0
+100
+NEXT MOVE
+Splash
+Normal
+Status
+40
+0
+100
+NEXT MOVE
+Acid Armor
+Poison
+Status
+20
+0
+100
+NEXT MOVE
+Crabhammer
+Water
+Physical
+10
+100
+90
+NEXT MOVE
+Explosion
+Normal
+Physical
+5
+250
+100
+NEXT MOVE
+Fury Swipes
+Normal
+Physical
+15
+18
+80
+NEXT MOVE
+Bonemerang
+Ground
+Physical
+10
+50
+90
+NEXT MOVE
+Rest
+Psychic
+Status
+5
+0
+100
+NEXT MOVE
+Rock Slide
+Rock
+Physical
+10
+75
+90
+NEXT MOVE
+Hyper Fang
+Normal
+Physical
+15
+80
+90
+NEXT MOVE
+Sharpen
+Normal
+Status
+30
+0
+100
+NEXT MOVE
+Conversion
+Normal
+Status
+30
+0
+100
+NEXT MOVE
+Tri Attack
+Normal
+Special
+10
+80
+100
+NEXT MOVE
+Super Fang
+Normal
+Physical
+10
+0
+90
+NEXT MOVE
+Slash
+Normal
+Physical
+20
+70
+100
+NEXT MOVE
+Substitute
+Normal
+Status
+10
+0
+100
+NEXT MOVE
+Struggle
+Normal
+Physical
+1
+50
+100
+NEXT MOVE
